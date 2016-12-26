@@ -58,7 +58,7 @@ Kamu akan melihat &#8230;
 ```
 $ git add hello.html
 $ git commit -m "Commit pertama"
-[master (root-commit) 911e8c9] First Commit
+[master (root-commit) e543b3a] Commit pertama
  1 files changed, 1 insertions(+), 0 deletions(-)
  create mode 100644 hello.html
 ```

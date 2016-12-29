@@ -13,5 +13,10 @@
     "pid": "3",
     "name": "Memeriksa Status Sebuah Repository",
     "file": "checking_status"
+  },
+  {
+    "pid": "4",
+    "name": "Membuat Perubahan",
+    "file": "making_changes"
   }
 ]

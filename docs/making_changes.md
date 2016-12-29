@@ -18,7 +18,7 @@ Mari kita menambahkan beberapa tag HTML di file ```hello.html```. Rubah isi dala
 
 ### 02. Memeriksa status
 
-Periksa status direktori project
+Periksa status direktori project.
 
 #### Run:
 
@@ -47,6 +47,6 @@ Poin penting di sini yaitu, git tahu bahwa file ```hello.html``` telah termodifi
 Poin lainnya yang ada pada laporan status di atas adalah petunjuk tentang apa yang harus dilakukan selanjutnya. Jika kamu ingin memasukkan file yang telah dimodifikasi tersebut ke repository, gunakan perintah ```git add```. Untuk mengembalikan file ke awal gunakan perintah ```git checkout```.
 
 
-## 03. Selanjut &#8230;
+## 03. Selanjutnya &#8230;
 
 Staging perubahan.

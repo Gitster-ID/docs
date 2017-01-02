@@ -1,4 +1,5 @@
 ## Staging dan committing
+
 ---
 
 Langkah-langkah staging di git dapat membiarkan kita untuk membuat perubahan pada direktori kerja, dan setiap kita akan berinteraksi dengan version control, kita dapat membuat perubahan dengan beberapa commit dan git akan memonitornya.

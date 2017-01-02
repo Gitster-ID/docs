@@ -18,5 +18,15 @@
     "pid": "4",
     "name": "Membuat Perubahan",
     "file": "making_changes"
+  },
+  {
+    "pid": "5",
+    "name": "Staging Perubahan",
+    "file": "staging_changes"
+  },
+  {
+    "pid": "6",
+    "name": "Staging dan Committing",
+    "file": "staging_and_committing"
   }
 ]

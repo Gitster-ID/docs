@@ -42,7 +42,7 @@ Initialized empty Git repository in /Users/Gitster-ID/Github/Tutorial/hello/.git
 
 #### 03. Menambahkan sebuah file ke repository
 
-Sekarang kita tambahkan halaman “Hello, World” yang baru saja dibuat ke repository.</p>
+Sekarang kita tambahkan halaman “Hello, World” yang baru saja dibuat ke repository.
 
 #### Run:
 

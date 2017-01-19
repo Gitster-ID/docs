@@ -28,5 +28,10 @@
     "pid": "6",
     "name": "Staging dan Committing",
     "file": "staging_and_committing"
+  },
+  {
+    "pid": "7",
+    "name": "Meng-commit Sebuah Perubahan",
+    "file": "committing_changes"
   }
 ]

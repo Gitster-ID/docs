@@ -26,13 +26,13 @@ Jika kamu tidak menggunakan opsi ```-m```, git akan membuka editor seperti berik
 # with '#' will be ignored, and an empty message aborts the commit.
 # On branch master
 # Changes to be committed:
-#   (use "git reset HEAD &lt;file&gt;..." to unstage)
+#   (use "git reset HEAD <file>..." to unstage)
 #
 #	modified:   hello.html
 #
 ```
 
-Di baris pertama, isi keterangan: &#8220;Menambahkan hi tag&#8221;. Save dan exit editor (biasanya dengan menekan ESC dan tulis ```:wq``` lalu Enter). Kamu seharusnya dapat melihat prosesnya seperti berikut:
+Di baris pertama, isi keterangan: &#8220;Menambahkan h1 tag&#8221;. Save dan exit editor (biasanya dengan menekan ESC dan tulis ```:wq``` lalu Enter). Kamu seharusnya dapat melihat prosesnya seperti berikut:
 
 #### Result:
 ```

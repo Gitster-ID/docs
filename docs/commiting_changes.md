@@ -40,7 +40,7 @@ git commit
 Waiting for Emacs...
 [master 569aa96] Menambahkan h1 tag
  1 files changed, 1 insertions(+), 1 deletions(-)
- ```
+```
 
 ### 02. Memeriksa status
 
